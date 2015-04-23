@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HelloTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2015-02-17T12:57:15" hostname="tuber" time="0.003">
-  <properties/>
-  <testcase name="test_say_hello" classname="HelloTest" time="0.003"/>
-  <system-out><![CDATA[Hello World!
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
